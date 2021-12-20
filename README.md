@@ -1,2 +1,2 @@
 # personal-site
-my blog 
+construction of my lil blog :) 
